@@ -12,9 +12,8 @@
       "description": "33 skills, 12 specialized agents, quality gates, and structured workflows. Auto-activating pipeline: brainstorm → plan → execute with multi-agent code exploration and evidence-based review.",
       "category": "development",
       "source": {
-        "source": "git",
+        "source": "url",
         "url": "https://github.com/greglas75/zuvo.git",
-        "ref": "main",
         "sha": "564a269921b7b9ae32ee168749a97c220122d72d"
       },
       "homepage": "https://zuvo.dev",
