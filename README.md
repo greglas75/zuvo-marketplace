@@ -5,11 +5,11 @@ Plugin marketplace for [Zuvo](https://github.com/greglas75/zuvo) — auto-activa
 ## Install
 
 ```bash
-# 1. Add this marketplace
-/plugin marketplace add greglas75/zuvo-marketplace
+# 1. Add this marketplace (one-time)
+claude plugin marketplace add greglas75/zuvo-marketplace
 
 # 2. Install Zuvo
-/plugin install zuvo
+claude plugin install zuvo
 ```
 
 ## What you get
