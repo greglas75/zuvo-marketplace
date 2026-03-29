@@ -9,12 +9,12 @@
   "plugins": [
     {
       "name": "zuvo",
-      "description": "33 skills, 12 specialized agents, quality gates, and structured workflows. Auto-activating pipeline: brainstorm → plan → execute with multi-agent code exploration and evidence-based review.",
+      "description": "38 skills, 17 specialized agents, quality gates, and structured workflows. Auto-activating pipeline: brainstorm → plan → execute. New: audit-to-fix pipeline, parallel seo-audit, release skills.",
       "category": "development",
       "source": {
         "source": "url",
         "url": "https://github.com/greglas75/zuvo.git",
-        "sha": "12e42bd158317ac87ba2fd9729c80f434a12ea24"
+        "sha": "38d3c5be8d9541db14fc7f9f22f1e00f64d45df8"
       },
       "homepage": "https://zuvo.dev",
       "tags": ["skills", "multi-agent", "code-quality", "workflow", "tdd", "audits"]
