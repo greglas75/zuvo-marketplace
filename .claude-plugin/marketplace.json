@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "zuvo",
-      "description": "39 skills, 17 specialized agents, quality gates, and structured workflows. Auto-activating pipeline: brainstorm → plan → execute. New: audit-to-fix pipeline, parallel seo-audit, release skills.",
+      "description": "39 skills, 20 specialized agents, quality gates, and structured workflows. Auto-activating pipeline: brainstorm → plan → execute. New: audit-to-fix pipeline, parallel seo-audit, release skills.",
       "category": "development",
       "source": {
         "source": "url",
