@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "zuvo",
-      "description": "49 skills, 26 specialized agents, quality gates, knowledge store, session recovery, adversarial review (4 providers), and structured workflows. Full SDLC pipeline: brainstorm → plan → execute → ship → deploy → canary → retro. Supports Claude Code, Codex, and Cursor.",
+      "description": "51 skills, 26 specialized agents, quality gates, knowledge store, session recovery, adversarial review (4 providers), and structured workflows. Full SDLC pipeline: brainstorm → plan → execute → ship → deploy → canary → retro. Content writing and optimization. Supports Claude Code, Codex, and Cursor.",
       "category": "development",
       "source": {
         "source": "url",
