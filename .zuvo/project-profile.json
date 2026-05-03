@@ -1,0 +1,80 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-05-03T10:26:21.428Z",
+  "generated_by": {
+    "tool": "codesift",
+    "tool_version": "1.0.0",
+    "extractor_versions": {
+      "stack_detector": "1.0.0",
+      "file_classifier": "1.0.0",
+      "hono": "2.0.0",
+      "nestjs": "1.0.0",
+      "nextjs": "1.0.0",
+      "express": "1.0.0",
+      "react": "2.0.0",
+      "typescript": "2.1.0",
+      "javascript": "1.0.0",
+      "python": "1.0.0",
+      "php": "1.0.0",
+      "astro": "1.0.0",
+      "kotlin": "1.0.0",
+      "monorepo": "1.0.0"
+    }
+  },
+  "compatible_with": ">=1.0, <2.0",
+  "status": "partial",
+  "identity": {
+    "project_name": "zuvo-marketplace",
+    "project_type": "single",
+    "workspace_root": "/Users/greglas/DEV/zuvo-marketplace",
+    "git_remote": null
+  },
+  "stack": {
+    "framework": null,
+    "framework_version": null,
+    "language": "javascript",
+    "language_version": null,
+    "test_runner": null,
+    "package_manager": null,
+    "build_tool": null,
+    "monorepo": null,
+    "detected_from": []
+  },
+  "file_classifications": {
+    "critical": [],
+    "important": {
+      "count": 0,
+      "by_type": {},
+      "top": []
+    },
+    "routine": {
+      "count": 0,
+      "by_type": {}
+    }
+  },
+  "dependency_graph": {
+    "entry_points": [],
+    "hub_modules": [],
+    "leaf_modules": [
+      "README.md"
+    ],
+    "orphan_files": []
+  },
+  "test_conventions": {
+    "mock_style": null,
+    "setup_files": [],
+    "mock_patterns": [],
+    "assertion_library": "expect",
+    "file_patterns": [],
+    "common_mocks": []
+  },
+  "known_gotchas": {
+    "auto_detected": []
+  },
+  "generation_metadata": {
+    "files_analyzed": 1,
+    "files_skipped": 0,
+    "skip_reasons": {},
+    "duration_ms": 58
+  }
+}
