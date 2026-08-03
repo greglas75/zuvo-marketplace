@@ -14,7 +14,7 @@ claude plugin install zuvo
 
 ## What you get
 
-49 skills, 26 specialized agents, quality gates, knowledge store, session recovery, adversarial review (4 providers), and structured workflows — all auto-activating.
+57 skills, 26 specialized agents, quality gates, knowledge store, session recovery, adversarial review (4 providers), and structured workflows — all auto-activating.
 
 Full SDLC pipeline: brainstorm → plan → execute → ship → deploy → canary → retro.
 

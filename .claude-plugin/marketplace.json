@@ -9,12 +9,12 @@
   "plugins": [
     {
       "name": "zuvo",
-      "description": "51 skills, 26 specialized agents, quality gates, knowledge store, session recovery, adversarial review (4 providers), and structured workflows. Full SDLC pipeline: brainstorm → plan → execute → ship → deploy → canary → retro. Content writing and optimization. Supports Claude Code, Codex, and Cursor.",
+      "description": "57 skills, 26 specialized agents, quality gates, knowledge store, session recovery, adversarial review (4 providers), and structured workflows. Full SDLC pipeline: brainstorm → plan → execute → ship → deploy → canary → retro. Content writing and optimization. Supports Claude Code, Codex, and Cursor.",
       "category": "development",
       "source": {
         "source": "url",
         "url": "https://github.com/greglas75/zuvo.git",
-        "sha": "fd57e1151319c1a2572f39a6659e9c0380b90be5"
+        "sha": "17fa74651e13d5b04bb93375b18c183f3f94343c"
       },
       "homepage": "https://zuvo.dev",
       "tags": ["skills", "multi-agent", "code-quality", "workflow", "tdd", "audits"]
