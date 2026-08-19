@@ -14,7 +14,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/greglas75/zuvo.git",
-        "sha": "373a8eb532a1b586aa1109929fbabc49993dccba"
+        "sha": "39471c53575e2f282dc36223cb93a394de16ed21"
       },
       "homepage": "https://zuvo.dev",
       "tags": ["skills", "multi-agent", "code-quality", "workflow", "tdd", "audits"]
